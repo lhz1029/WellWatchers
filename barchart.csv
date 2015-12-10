@@ -1,0 +1,1 @@
+Model,Accuracy on Training,Accuracy on TestkNN,0.97,0.77Naive Bayes,0.67,0.67SVM,0.81,0.78Random Forest,0.91,0.8Logistic Regression,0.74,0.73
